@@ -1,2 +1,5 @@
-package org.generation.italy.departmentProject.model.entities;public enum Sex {
+package org.generation.italy.departmentProject.model.entities;
+
+public enum Sex {
+    MALE,FEMALE,UNDECIDED
 }
